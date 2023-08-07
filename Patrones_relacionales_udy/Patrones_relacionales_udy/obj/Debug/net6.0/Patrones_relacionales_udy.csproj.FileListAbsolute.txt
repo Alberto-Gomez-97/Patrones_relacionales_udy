@@ -1,0 +1,15 @@
+C:\Users\agomezpa\source\repos\Patrones_relacionales_udy\Patrones_relacionales_udy\bin\Debug\net6.0\Patrones_relacionales_udy.exe
+C:\Users\agomezpa\source\repos\Patrones_relacionales_udy\Patrones_relacionales_udy\bin\Debug\net6.0\Patrones_relacionales_udy.deps.json
+C:\Users\agomezpa\source\repos\Patrones_relacionales_udy\Patrones_relacionales_udy\bin\Debug\net6.0\Patrones_relacionales_udy.runtimeconfig.json
+C:\Users\agomezpa\source\repos\Patrones_relacionales_udy\Patrones_relacionales_udy\bin\Debug\net6.0\Patrones_relacionales_udy.dll
+C:\Users\agomezpa\source\repos\Patrones_relacionales_udy\Patrones_relacionales_udy\bin\Debug\net6.0\Patrones_relacionales_udy.pdb
+C:\Users\agomezpa\source\repos\Patrones_relacionales_udy\Patrones_relacionales_udy\obj\Debug\net6.0\Patrones_relacionales_udy.csproj.AssemblyReference.cache
+C:\Users\agomezpa\source\repos\Patrones_relacionales_udy\Patrones_relacionales_udy\obj\Debug\net6.0\Patrones_relacionales_udy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agomezpa\source\repos\Patrones_relacionales_udy\Patrones_relacionales_udy\obj\Debug\net6.0\Patrones_relacionales_udy.AssemblyInfoInputs.cache
+C:\Users\agomezpa\source\repos\Patrones_relacionales_udy\Patrones_relacionales_udy\obj\Debug\net6.0\Patrones_relacionales_udy.AssemblyInfo.cs
+C:\Users\agomezpa\source\repos\Patrones_relacionales_udy\Patrones_relacionales_udy\obj\Debug\net6.0\Patrones_relacionales_udy.csproj.CoreCompileInputs.cache
+C:\Users\agomezpa\source\repos\Patrones_relacionales_udy\Patrones_relacionales_udy\obj\Debug\net6.0\Patrones_relacionales_udy.dll
+C:\Users\agomezpa\source\repos\Patrones_relacionales_udy\Patrones_relacionales_udy\obj\Debug\net6.0\refint\Patrones_relacionales_udy.dll
+C:\Users\agomezpa\source\repos\Patrones_relacionales_udy\Patrones_relacionales_udy\obj\Debug\net6.0\Patrones_relacionales_udy.pdb
+C:\Users\agomezpa\source\repos\Patrones_relacionales_udy\Patrones_relacionales_udy\obj\Debug\net6.0\Patrones_relacionales_udy.genruntimeconfig.cache
+C:\Users\agomezpa\source\repos\Patrones_relacionales_udy\Patrones_relacionales_udy\obj\Debug\net6.0\ref\Patrones_relacionales_udy.dll
